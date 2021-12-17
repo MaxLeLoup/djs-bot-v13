@@ -44,4 +44,4 @@ Le bot ne contient qu'une commande :
 
 ## ✍️ Auteur <a name = "authors"></a>
 
-- [@OwOMax](https://github.com/OwOMax)
+- [@OwOMax](https://github.com/MaxLeLoup)
