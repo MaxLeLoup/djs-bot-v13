@@ -5,10 +5,10 @@ module.exports.run = (bot, message, args) => {
 };
 
 module.exports.help = {
-  name: 'vocal',
-  aliases: ['vc'],
-  category: 'stats',
-  description: 'Renvoie les infos sur les personnes en vocal.',
+  name: 'teste',
+  aliases: ['test'],
+  category: 'Teste',
+  description: 'Renvoie le message pour tester le bot.',
   cooldown: 5,
   usage: '',
 }
